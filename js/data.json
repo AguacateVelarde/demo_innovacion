@@ -1,0 +1,185 @@
+{
+	"ITI": [
+		{
+			"title" : "Introduccíón a la programación",
+			"id" : 1,
+			"value" : 16
+		},{
+			"title" : "Introducción a las matemáticas",
+			"id" : 2,
+			"value" : 10
+		},{
+			"title" : "DHPC",
+			"id" : 3,
+			"value" : 12
+		},{
+			"title" : "Inovación y talento Emprendedor",
+			"id" : 4,
+			"value" : 8
+		},{
+			"title" : "Física",
+			"id" : 5,
+			"value" : 6
+		},{
+			"title" : "Circuitos eléctricos",
+			"id" : 6,
+			"value" : 9
+		}
+	],
+
+	"ICC" : [
+		{
+			"title" : "Diseño Gráfico",
+			"id" : 1,
+			"value" : 5
+		},{
+			"title" : "Diseño Gráfico",
+			"id" : 2,
+			"value" : 5
+		},{
+			"title" : "Diseño Gráfico",
+			"id" : 3,
+			"value" : 5
+		},{
+			"title" : "Diseño Gráfico",
+			"id" : 4,
+			"value" : 5
+		}
+
+	],
+	
+	"LCC" : [{
+		"title" : "Formación Humana y Social",
+		"credito" : 4
+	},{
+		"title" : "DHPC",
+		"credito" : 4
+	},{
+		"title" : "DHTICS",
+		"credito" : 4
+	},{
+		"title" : "Herramientas del aprendizaje autónomo",
+		"credito" : 4
+	},{
+		"title" : "Redacción",
+		"credito" : 4
+	},{
+		"title" : "Innovación y talento emprendedor", 
+		"credito" : 4
+	},{
+		"title" : "Matemáticas Elementales",
+		"credito" : 5
+	},{
+		"title" :  "Álgebra Superior",
+		"credito" : 5
+	},{
+		"title" : "Cálculo Diferencial",
+		"credito" : 5
+	},{
+		"title" : "Álgebra Lineal",
+		"credito" : 5
+	},{
+		"title" : "Cálculo Integral",
+		"credito" : 5
+	},{
+		"title" : "Geometría Analítica",
+		"credito" : 5
+	},{
+		"title" : "Probabilidad",
+		"credito" : 5
+	},{
+		"title" : "Metodología de la Programación",
+		"credito" :  4
+	},{
+		"title" : "Ensamblador", 
+		"credito" : 5
+	},{	
+		"title" : "Programación",
+		"credito" :  5
+	},{
+		"title" : "Estructuras Discretas",
+		"credito" : 5
+	},{
+		"title" : "Lógica Matemática",
+		"credito" :  5
+	},{
+		"title" : "Lenguajes Formales y Autómatas",
+		"credito" :  5
+	},{
+		"title" : "Sistemas Operativos",
+		 "credito" : 5
+	},{
+		"title" : "Programación",
+		 "credito" : 5
+	},{
+		"title" : "Estructuras de Datos",
+		 "credito" : 5
+	},{
+		"title" : "Arquitectura Funcional de Computadoras",
+		 "credito" : 5
+	},{
+		"title" : "Ingeniería de Software",
+		 "credito" : 5
+	},{
+		"title" : "Análisis y Diseño de Algoritmos",
+		 "credito" :  5
+	},{
+		"title" : "Administración de Proyectos",
+		 "credito" : 5
+	},{
+		"title" : "Proyectos I+D I",
+		 "credito" : 5
+	},{
+		"title" : "Proyectos I+D II",
+		 "credito" : 5
+	},{
+		"title" : "Servicio Social",
+		 "credito" : 10
+	},{
+		"title" : "Práctica Profesional",
+		 "credito" : 5
+	},{
+		"title" : "Circuitos Lógicos",
+		 "credito" : 5
+	},{
+		"title" : "Microprocesadores",
+		 "credito" : 5
+	},{
+		"title" : "Programación Concurrente y Paralela",
+		 "credito" : 5
+	},{
+		"title" : "Sistemas Operativos II",
+		 "credito" : 5
+	},{
+		"title" : "Fundamentos de Lenguajes de Programación",
+		 "credito" : 5
+	},{
+		"title" : "Programación Distribuida",
+		 "credito" : 5
+	},{
+		"title" : "Computabilidad",
+		"credito" : 5
+	},{
+		"title" : "Compiladores",
+		 "credito" : 5
+	},{
+		"title" : "Redes de Computadoras",
+		 "credito" : 5
+	},{
+		"title" : "Graficación",
+		 "credito" : 5
+	},{
+		"title" : "Bases de Datos",
+		 "credito" : 5
+	},{
+		"title" : "Seguridad en Redes",
+		 "credito" : 5
+	},{
+		"title" : "Inteligencia Artificial",
+		 "credito" : 5
+	},{
+		"title" : "Recuperación de Información",
+		 "credito" : 5
+	}]
+
+}

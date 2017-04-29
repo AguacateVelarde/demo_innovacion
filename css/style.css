@@ -1,0 +1,49 @@
+/* Empty. Add your own CSS if you like */
+@font-face{
+	src: url('../font/Molleat.otf');
+	font-family: "Mollet";
+} 
+@font-face{
+	src: url('../font/Oranienbaum.otf');
+	font-family: "Oranienbaum";
+}
+
+.move-propio{
+
+	padding-top: 34%;
+	display:flex;
+	flex-flow: column nowrap;
+	align-items: center;
+
+}
+.move-propio > h2{
+	font-family: Oranienbaum;
+}
+.move-propio > h1{
+	font-family: Mollet;
+	font-size: 70px;
+	color:#387ef5;
+	text-decoration: strong;
+}
+
+.ima-propio{
+	background-image: url('../img/fondo.jpg');
+}
+
+.move-propio > a{
+	padding: 10px;
+}
+
+.center-image{
+      margin:0 auto;
+      max-width: 100% !important;
+      max-height: 100% !important;
+    }
+
+.item-profile {
+  height: 350px;
+  .item-avatar > img:first-child {
+    max-width: 100px;
+    max-height: 100px:
+  }
+}

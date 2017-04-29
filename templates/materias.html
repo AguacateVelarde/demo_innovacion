@@ -1,0 +1,23 @@
+<ion-view view-title="Materias">
+  <ion-content >
+    <br>
+      <h1 class="text-center">{{ titulo }}</h1>
+      <ion-list ng-repeat="item in shopsContent">	
+        <ion-checkbox class="checkbox-royal">
+       <ion-label ng-id={{item-id}}>{{ item.title }}</ion-label>
+
+    </ion-checkbox>
+      </ion-list>
+   
+
+    <a href="#/app/resultados/23">
+      	<button class="button button-block button-royal">
+      		Evalúa
+      	</button>
+
+      </a>
+      <br><br>
+      <br><br>
+  </ion-content>
+</ion-view>
+
